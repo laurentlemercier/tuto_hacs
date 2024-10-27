@@ -3,5 +3,5 @@
     "hacs": "2.0.1",
     "domains": ["binary_sensor", "sensor", "switch"],
     "iot_class": "Cloud Polling",
-    "homeassistant": "2024.11.0b0"
+    "homeassistant": "2024.11.0"
   }
