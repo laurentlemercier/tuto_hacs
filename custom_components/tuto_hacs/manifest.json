@@ -4,7 +4,7 @@
     "codeowners": [
         "@laurentlemercier"
     ],
-    "loggers": [],
+    "loggers": ["tuto_hacs"],
     "after_dependencies": [],
     "dependencies": [],
     "requirements": [],
