@@ -8,7 +8,7 @@
     "documentation": "https://github.com/laurentlemercier/tuto_hacs",
     "issue_tracker": "https://github.com/laurentlemercier/tuto_hacs/issues",
     "integration_type": "device",
-    "iot_class": "local_polling ",
+    "iot_class": "calculated ",
     "quality_scale": "silver",
     "version": "3.0.0"
 }
